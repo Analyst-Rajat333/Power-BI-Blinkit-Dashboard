@@ -15,9 +15,8 @@ This project features an interactive and modern **Sales & Performance Dashboard*
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard 2](https://github.com/user-attachments/assets/77f0550e-21fe-4465-9ff9-67d51948d314)
 ![Blinkit Dashboard 1](https://github.com/user-attachments/assets/7bc67fcf-f146-4153-8075-1cf855d093a0)
-
+![Blinkit Dashboard 2](https://github.com/user-attachments/assets/77f0550e-21fe-4465-9ff9-67d51948d314)
 
 ---
 
