@@ -57,7 +57,7 @@ This project features an interactive and modern **Sales & Performance Dashboard*
 
 ## 🔗 GitHub Repository Link
 
-(https://github.com/YourUsername/Power-BI-Blinkit-Dashboard)
+(https://github.com/Analyst-Rajat333/Power-BI-Blinkit-Dashboard)
 
 ---
 
